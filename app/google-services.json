@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33568217370",
+    "project_id": "pokerpay-b3865",
+    "storage_bucket": "pokerpay-b3865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33568217370:android:38e52f79bb70c534cab4a3",
+        "android_client_info": {
+          "package_name": "com.mrunknown101331.pokerpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_wnuq8tskUxgQj2tye3kmetqK26yElE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
