@@ -1,4 +1,4 @@
-# PokerPay: Keep Track of Your Chips, Focus on the Cards
+# PokerPay: Keeps Track of Your Chips, Focus on the Cards
 
 PokerPay is the perfect companion for your live poker nights. Use a real deck of cards for the authentic poker experience, and let PokerPay handle the chip management, so you can focus on the game. No more fumbling with physical chips – just pure poker action.
 
